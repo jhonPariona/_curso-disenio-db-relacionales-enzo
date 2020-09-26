@@ -4,6 +4,8 @@
   </a>
 </p>
 
+> Modelar es un Proceso--->Modelo es un Producto.
+
 ## Un lenguaje Común
 
 - [Que es un dato](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/lenguaje_comundato.md#que-es-dato)
