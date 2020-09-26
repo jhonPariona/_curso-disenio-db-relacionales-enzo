@@ -22,6 +22,9 @@ Cuando digo "crear", no me refiero a la creación física como tal. Uno puede an
 
 ## Modelos de bases de datos
 
+> En 1969 Edgar cod propone Modelo Relacional
+
+
 ## El modelo relacional
 
 ## Normalizacion
