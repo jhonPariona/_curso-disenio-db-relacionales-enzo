@@ -8,6 +8,7 @@
 
 - [Que es un dato](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/lenguaje_comundato.md#que-es-dato)
 - [Que es una base de datos](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/lenguaje_comun/base_datos.md#base-de-datos)
+- [Que es un modelo de datos](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/lenguaje_comun/modelo_datos.md#modelo-de-datos)
 
 ## Modelos de bases de datos
 
