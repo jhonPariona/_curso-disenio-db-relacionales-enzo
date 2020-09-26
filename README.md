@@ -6,6 +6,8 @@
 
 ## Un lenguaje Común
 
+- [Que es un dato](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/lenguaje_comundato.md#que-es-dato)
+
 ## Modelos de bases de datos
 
 ## El modelo relacional
