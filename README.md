@@ -1,2 +1,5 @@
-# _curso-disenio-db-relacionales-enzo
-🏗️ Un viaje desde el Dato hasta la Base de Datos. Modelo Relacional, Normalización de Bases de Datos, RDBMS, SQL y más...
+<p align="center">
+  <a href="https://www.udemy.com/course/diseno-de-bases-de-datos-relacionales/" target="_blank">
+    <img src="https://raw.githubusercontent.com/jhonPariona/images/master/udemy/Screenshot_20200925_200653.png" alt="portada"/>
+  </a>
+</p>
