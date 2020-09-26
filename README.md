@@ -26,10 +26,13 @@ Cuando digo "crear", no me refiero a la creación física como tal. Uno puede an
 
 - [Modelo jerarquico](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/modelo_db/Modelo_jerarquico.md#modelo-jer%C3%A1quico-tipo-%C3%A1rbol-invertido)
 - [Modelo de redes](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/modelo_db/modelo_redes.md#modelo-de-redes)
+- [Modelo relacional](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/modelo_db/modelo_relacional.md#modelo-relacional)
 
 
 ## El modelo relacional
 
+- [Conceptos](https://github.com/jhonPariona/_curso-disenio-db-relacionales-enzo/blob/master/modelo_relacional/Conceptos.md#conceptos)
+  
 ## Normalizacion
 
 ## El diagrama entidad relación
