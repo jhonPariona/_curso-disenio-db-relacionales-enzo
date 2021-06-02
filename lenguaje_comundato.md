@@ -27,7 +27,10 @@ Ejem:
 
 dato: 3
 
-metadata descriptiva: edad del infante, numero entero, obligatorio
+metadata descriptiva: 
+Número Atómico:  Entero; entre 1 y 118.
+
+Estos datos (tipo:entero; rango 1-118) describen al dato "Número Atómico" y se consideran Metadata Descriptiva... mientras que el dato "Número Atómico" como tal, describe una cualidad de un Elemento químico, que es la Entidad que en este caso estamos viendo.
 
 metadata estructural: campo edad, estante 4, oficina 307
 
