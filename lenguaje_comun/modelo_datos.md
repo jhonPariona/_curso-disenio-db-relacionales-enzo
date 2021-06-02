@@ -1,6 +1,8 @@
 # MODELO DE DATOS
 
-lenguaje de modelado para la definión de esquemas(representacion gráfica o simbolica de como los datos interactuan entre si o como se relacionan con las propiedades el exterior)
+> LENGUAJE DE MODELADO PARA LA REPRESENTACIÓN DE ESQUEMAS(REPRESENTACIONES GRÁFICAS), DEFINE UN LENGUAJE COMÚN, IDENTIFICA ENTIDADES Y ESTABLECE LAS REGLAS DEL NEGOCIO
+
+Por ejemplo, para almacenar una lista de edades, podemos decidir usar una Estructura de Datos especícifica (digamos que una lista o un vector, etc...) sin embargo hay reglas que debemos seguir, como por ejemplo que una Edad no puede ser un número negativo y dadas las evidencias del mundo real, podemos también decidir que no puede ser mayor a 120 por ejemplo.... y tal vez para nuestro Sistema en particular, la edad debe ser un número Entero.  Este tipo de "Reglas" forman parte del Modelo de Datos.
 
 - claro
 - igual para las diferentes visiones de la realidad
@@ -49,4 +51,4 @@ FACTURAS ♾️  <-▶️ ♾️ PRODUCTOS
 [![Modelo de datos](https://www.marketingdirecto.com/wp-content/uploads/2019/09/video-online.jpg)](https://drive.google.com/file/d/1dbS9GoTMgU7aWVbclyaOzbN_4193Fftl/view?usp=sharing "Modelo de datos")
 
 
-Por ejemplo, para almacenar una lista de edades, podemos decidir usar una Estructura de Datos especícifica (digamos que una lista o un vector, etc...) sin embargo hay reglas que debemos seguir, como por ejemplo que una Edad no puede ser un número negativo y dadas las evidencias del mundo real, podemos también decidir que no puede ser mayor a 120 por ejemplo.... y tal vez para nuestro Sistema en particular, la edad debe ser un número Entero.  Este tipo de "Reglas" forman parte del Modelo de Datos.
+
