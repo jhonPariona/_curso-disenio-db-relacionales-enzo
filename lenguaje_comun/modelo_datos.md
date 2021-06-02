@@ -1,6 +1,6 @@
 # MODELO DE DATOS
 
-> LENGUAJE DE MODELADO PARA LA REPRESENTACIÓN DE ESQUEMAS(REPRESENTACIONES GRÁFICAS), DEFINE UN LENGUAJE COMÚN, IDENTIFICA ENTIDADES Y ESTABLECE LAS REGLAS DEL NEGOCIO
+> 🧜‍♂️ LENGUAJE DE MODELADO PARA LA REPRESENTACIÓN DE ESQUEMAS(REPRESENTACIONES GRÁFICAS), DEFINE UN LENGUAJE COMÚN, IDENTIFICA ENTIDADES Y ESTABLECE LAS REGLAS DEL NEGOCIO
 
 Por ejemplo, para almacenar una lista de edades, podemos decidir usar una Estructura de Datos especícifica (digamos que una lista o un vector, etc...) sin embargo hay reglas que debemos seguir, como por ejemplo que una Edad no puede ser un número negativo y dadas las evidencias del mundo real, podemos también decidir que no puede ser mayor a 120 por ejemplo.... y tal vez para nuestro Sistema en particular, la edad debe ser un número Entero.  Este tipo de "Reglas" forman parte del Modelo de Datos.
 
