@@ -1,8 +1,8 @@
 # Base de datos
 
-Coleccion organizadad de datos que pertenecen a un cierto contexto.
+> 📋 COLECCIÓN DE DATOS ORGANIZADA QUE PERTENECEN A UN CIERTO CONTEXTO
 
-> Las bases de datos no son programas ni lenguajes.
+> 🗣️ LAS DB NO SON PROGRAMAS NI LENGUAJES
 
 ## Clasificación
 
