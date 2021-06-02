@@ -1,15 +1,18 @@
 # Que es dato
 
+> 😎 UN DATO ES UN ATRIBUTO QUE DESCRIBE UNA ENTIDAD, HECHO O MOMENTO DEL MUNDO REAL
+
+> 🧐 UNA ENTIDAD ES UNA AGRUPACIÓN DE DATOS(ATRIBUTOS)
+
 ## Dato
 
-Latín "Lo que se da"
+Latín *datum* = "Lo que se da"
 
-singular: datum => más se usa: dato
-plural: data => más se usa: datos
+singular: datum(dato)
+
+plural: data(datos)
 
 Representación simbólica(núm, letras, fig, simbolos, ...) de atributo o variable cuantitativa(cantidad) o cualitativa(como es).
-
-Atributos que describen Entidades, hechos y/o momentos del mundo real.
 
 > El dato por si solo no contiene información o es irrelevante.
 
@@ -30,6 +33,6 @@ metadata estructural: campo edad, estante 4, oficina 307
 
 ## Entidad
 
-agrupación de datos y cada uno de estos datos son atributos de la entidad(por eso se dice que los datos son atributos que describen entidades)
+agrupación de datos y cada uno de estos datos son atributos de la entidad(por eso se dice que los datos son atributos que describen entidades, hechos y/o Momentos del mundo real)
 
 ![dato](https://raw.githubusercontent.com/jhonPariona/images/master/udemy/dato.png)
